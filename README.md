@@ -15,3 +15,5 @@ This project demonstrates Git version control best practices — including branc
 ## Author
 Arjun P Saji
 
+## Dev Branch Notes
+This is where development work happens.
